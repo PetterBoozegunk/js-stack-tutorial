@@ -1,0 +1,14 @@
+{
+  "name": "js-stack-tutorial",
+  "version": "1.0.0",
+  "description": "Js stack tutorial",
+  "main": "index.js",
+  "author": "Petter Ahlberg",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "color": "^0.11.3"
+  }
+}
